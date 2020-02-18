@@ -1,0 +1,8 @@
+Django
+uwsgi
+psycopg2
+psycopg2-binary
+
+# celery
+# django-celery-beat
+# django-celery-results
